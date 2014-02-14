@@ -18,7 +18,7 @@ A Ruby on Rails Vagrant box with all the software you need to start developing a
 - Copy Vagrantfile and Cheffile to your project by downloading or cloning using Git
 - Run `gem install librarian-chef`
 - Run `librarian-chef install` to use librarian to download the required Chef cookbooks
-- Run `vagrant up` to provision your Vagrant box with the included software. This may take a while, but when finished your Ruby on Rails development environment will be readyy for use.
+- Run `vagrant up` to provision your Vagrant box with the included software. This may take a while, but when finished your Ruby on Rails development environment will be ready for use.
 - Run `vagrant ssh` to access your Vagrant box
 
 ### Other Stuff
