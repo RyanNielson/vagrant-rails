@@ -75,7 +75,7 @@ Vagrant.configure("2") do |config|
             :gems => {
               '2.0.0-p353' => [
                 { :name => 'bundler', :version => '~> 1.5.3'},
-                { :name => 'rails', :version => '~> 4.0.2'}
+                { :name => 'rails', :version => '~> 4.0.3'}
               ]
             }
           }
