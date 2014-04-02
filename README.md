@@ -5,7 +5,7 @@ A Ruby on Rails Vagrant box with all the software you need to start developing a
 
 ### Software Included
 - Ubuntu 12.04
-- Ruby on Rails 4.0.2
+- Ruby on Rails 4.0.3
 - Node.js
 - Ruby 2.0.0-p353
 - Postgresql
