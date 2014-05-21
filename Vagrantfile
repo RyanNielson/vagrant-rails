@@ -74,8 +74,8 @@ Vagrant.configure("2") do |config|
             :global => "2.1.1",
             :gems => {
               '2.1.1' => [
-                { :name => 'bundler', :version => '~> 1.6.1'},
-                { :name => 'rails', :version => '~> 4.1.0'}
+                { :name => 'bundler', :version => '~> 1.6.2'},
+                { :name => 'rails', :version => '~> 4.1.1'}
               ]
             }
           }
